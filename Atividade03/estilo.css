@@ -1,0 +1,25 @@
+body {
+    background-color: #eedca6;
+}
+
+h1 {
+    color: #3a8531;
+    
+}
+h3 {
+    text-indent: 30px;
+}
+h4 {
+    color: #133d0f;
+    text-decoration:underline;
+    font-family:Arial, Helvetica, sans-serif
+}
+article{
+    text-indent: 30px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
